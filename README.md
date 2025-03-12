@@ -23,8 +23,9 @@
 </ul>
 
 <h2>📊 Dashboard Visualizations</h2>
-<img>
-<h3>1️⃣ KPI Dashboard (Key Metrics Summary)</h3>
+
+<h3>1️⃣ KPI Dashboard (Key Metrics Summary)</h3> 
+<img src="https://github.com/Meenu026/tableau/blob/main/kpi.png">
 <p>This sheet provides a <strong>high-level summary</strong> of key COVID-19 statistics:</p>
 <ul>
     <li><strong>Total Cases</strong>: The total number of infections recorded.</li>
@@ -36,6 +37,7 @@
 </ul>
 
 <h3>2️⃣ Time-Series Analysis (Trend Over Time)</h3>
+<img src="https://github.com/Meenu026/tableau/blob/main/time%20series.png">
 <p>This sheet visualizes how <strong>COVID-19 cases, deaths, and recoveries have changed over time</strong>.</p>
 <ul>
     <li>Shows <strong>daily new cases, new deaths, and new recoveries</strong> plotted on a timeline.</li>
@@ -44,6 +46,7 @@
 </ul>
 
 <h3>3️⃣ Global Impact Map (Choropleth Map)</h3>
+<img src="https://github.com/Meenu026/tableau/blob/main/global%20.png">
 <p>This sheet provides a <strong>geographical representation</strong> of the pandemic’s spread.</p>
 <ul>
     <li><strong>Darker shades</strong> indicate higher infection rates.</li>
@@ -52,6 +55,7 @@
 </ul>
 
 <h3>4️⃣ Heatmap (Worst-Hit Regions)</h3>
+<img src="https://github.com/Meenu026/tableau/blob/main/heatmap.png">
 <p>This sheet highlights <strong>regions with high infection rates</strong> using color intensity.</p>
 <ul>
     <li>Rows represent <strong>countries</strong> (or cities if available).</li>
@@ -60,6 +64,7 @@
 </ul>
 
 <h3>5️⃣ Vaccination & Recovery Progress</h3>
+<img src="https://github.com/Meenu026/tableau/blob/main/vaccination%20.png">
 <p>This sheet focuses on <strong>vaccination trends and recovery rates</strong> across countries.</p>
 <ul>
     <li>Displays <strong>how many people have been vaccinated over time</strong>.</li>
@@ -67,6 +72,7 @@
 </ul>
 
 <h3>6️⃣ Country Comparison Dashboard</h3>
+<img src="https://github.com/Meenu026/tableau/blob/main/country%20comparison.png">
 <p>This sheet provides a <strong>side-by-side comparison</strong> of COVID-19 statistics for different countries.</p>
 <ul>
     <li>Compare <strong>cases, deaths, recoveries, vaccination rates, and testing rates</strong>.</li>
@@ -83,7 +89,7 @@
 </ol>
 
 <h2>📸 Dashboard Preview</h2>
-<p><img src="C:\Users\hp\OneDrive\Desktop\git corona\dashboard full.png" alt="Dashboard Screenshot"></p>
+<p><img src="https://github.com/Meenu026/tableau/blob/main/Dashboard%20full.png" alt="Dashboard Screenshot"></p>
 
 <h2>📌 Tools Used</h2>
 <ul>
